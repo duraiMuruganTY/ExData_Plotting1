@@ -1,3 +1,6 @@
+# get code from readingData.R
+source("readingData.r")
+
 # First Plot - Frequency of GLobal Active Power
 
 # Save as PNG file with width and height as 480 pixel
