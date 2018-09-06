@@ -1,3 +1,6 @@
+# get code from readingData.R
+source("readingData.r")
+
 # transforming date and time variable in DS
 
 # Save as PNG file with width and height as 480 pixel
