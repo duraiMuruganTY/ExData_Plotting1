@@ -1,3 +1,7 @@
+# get code from readingData.R
+source("readingData.r")
+
+
 # 4th Image
 
 # Open PNG device
