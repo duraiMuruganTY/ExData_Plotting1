@@ -1,3 +1,6 @@
+# get code from readingData.R
+source("readingData.r")
+
 # 3rd graph - Energy Sub Metering
 
 # Output to PNG file
